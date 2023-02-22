@@ -1,7 +1,7 @@
 <h3>Oi there!</h3>
 <p>I've been coding for around 3-4 years now, and have some basic knowledge of Python, HTML & CSS, and little snippets of other programming languages.</p>
 <p>I am currently learning C++ and JavaScript. <sub>tho, with the pace i go at, itl be 2045 before I even get to data types tbh</sub></p>
-<b>Fiddlesticks! <i>I have to learn OOP next? AAAAAAAAAA</i></b>
+<b><i>I have to learn OOP next? #######!!! </i></b>
 <hr>
 <h3>Achievements</h3>
 <p>Surprisingly, I managed to earn the Responsive Web Design certification on FCC.</p>
