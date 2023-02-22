@@ -7,4 +7,4 @@
 <p>Surprisingly, I managed to earn the Responsive Web Design certification on FCC.</p>
 <p>I have made <b>many</b>, many <sub>honestly way to many</sub> projects in mostly Python but some HTML.</p>
 <b>But my proudest achievement yet...</b>
-<img src="https://user-images.githubusercontent.com/107454678/220515226-0a05a5a1-dd75-4ff1-b4d9-30693fd782e4.png">
+<img src="https://user-images.githubusercontent.com/107454678/220516108-5087656a-3c68-422c-8549-8666d1d68889.png">
