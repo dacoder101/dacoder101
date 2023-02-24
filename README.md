@@ -4,4 +4,6 @@
 <hr>
 <h1>Achievements</h1>
 <img src="https://user-images.githubusercontent.com/107454678/220548624-031f674f-1698-4022-8837-f33c2b1f572b.png">
-<sub><i>thats literally it</i></sub>
+<sub><i>thats literally it<br>oh and</i></sub><br>
+<a href="dacoder101.github.io/rickin"><img height="100px" width="500px"src="https://media.tenor.com/yheo1GGu3FwAAAAC/rick-roll-rick-ashley.gif"></a>
+<br><sub><i>no i acutally put effort in that pls click PLS PLS <b>NO WAIT</b></i></sub>
