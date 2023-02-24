@@ -1,5 +1,5 @@
 <img height="75px" width="225px" src="https://komarev.com/ghpvc/?username=dacoder101&label=pog+viewssssss&color=green">
-<p>follow me or this guy will be in ur cereal tommorow</p>
+<p>follow me or this guy will be in ur spaghetti</p>
 <img height="100px"width="500px"src="https://m.media-amazon.com/images/S/aplus-media/vc/a0b2ca3e-d921-4ab8-b750-49bc30b1af5e._SR300,300_.jpg">
 <hr>
 <h1>Achievements</h1>
