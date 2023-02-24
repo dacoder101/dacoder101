@@ -1,4 +1,5 @@
 <h3>Oi there!</h3>
+<img src="https://komarev.com/ghpvc/?username=dacoder101&label=pog-views&color=grey">
 <p>I've been coding for around 3-4 years now, and have some basic knowledge of Python, HTML & CSS, and little snippets of other programming languages.</p>
 <p>I am currently learning C++ and JavaScript. <sub>tho, with the pace i go at, itl be 2045 before I even get to data types tbh</sub></p>
 <b><i>I have to learn OOP next? #######!!! </i></b>
