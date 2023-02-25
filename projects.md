@@ -6,5 +6,4 @@
   <li>Savers: Custom HTML, CSS, and JS screensavers. (made for rickin)</li>
   <li>Collatz Calculator: A calculator for sequences of the Collatz Conjecture.</li>
   <li>(WIP) Pyos: A python command line "operating system."</li>
-  <li>(WIP) Chat App: A SocketIO chat app.</li>
 </ul>
