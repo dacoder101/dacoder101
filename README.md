@@ -1,6 +1,6 @@
 <img height="75px" width="225px" src="https://komarev.com/ghpvc/?username=dacoder101&label=ez+z&color=green&style=for-the-badge">
 <sub><i>probably all me tbh</i></sub>
-<img src="https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
 <p>follow me or this guy will be in ur spaghetti</p>
 <img height="100px"width="500px"src="https://m.media-amazon.com/images/S/aplus-media/vc/a0b2ca3e-d921-4ab8-b750-49bc30b1af5e._SR300,300_.jpg">
 <hr>
