@@ -3,8 +3,8 @@ Hi! I am a intermediate programmer that specializes in Python and HTML.</p>
 I've earned a Responsive Web Design certificate on FreeCodeCamp, and have been coding for around 3 years.
 I'm currently mastering Python and HTML, and learning C++, JavaScript, and Java.
 # Languages
-![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3776ab&color=ffffff)
+![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)(https://www.w3schools.com/html/)
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3776ab&color=ffffff)(https://python.org)
 
 # Stats
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko)
