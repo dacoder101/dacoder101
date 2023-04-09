@@ -1,5 +1,4 @@
 <h1>Projects</h1>
-<h3>My Readme is kinda crap at this, but heres all of my projects.</h3>
 
 <ul>
   <li>Rickin: A website dedicated to Rick Astley.</li>
