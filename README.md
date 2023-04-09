@@ -21,4 +21,4 @@ I'm currently mastering Python and HTML, and learning C++, JavaScript, and Java.
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoder101&layout=compact)
 # Best Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dacoder101&repo=github-readme-stats)](https://github.com/dacoder101/rickin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dacoder101&repo=github-readme-stats](https://github.com/dacoder101/rickin)
