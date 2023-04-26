@@ -2,6 +2,8 @@
 Hi! I am a intermediate programmer that specializes in Python and HTML.</p>
 I've earned a Responsive Web Design certificate on FreeCodeCamp, and have been coding for around 3 years.
 I'm currently mastering Python and HTML, and learning C++, JavaScript, and Java.
+
+Want to reach me? bobbye23899@gmail.com
 # Badges ![Profile Views](https://komarev.com/ghpvc/?username=dacoder101&label=Views&color=green&style=for-the-badge)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://www.w3schools.com/html/)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://www.w3schools.com/css/)
