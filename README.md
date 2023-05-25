@@ -39,6 +39,6 @@ Want to reach me? bobbye23899@gmail.com
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dacoder101&theme=merko)
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoder101&theme=merko&layout=compact)
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=dacoder101&theme=merko)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dacoder101&theme=merko)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dacoder101&theme=merko)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dacoder101&theme=merko)
