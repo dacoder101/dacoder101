@@ -1,5 +1,5 @@
 # dacoder101
-Hi! I am a intermediate programmer that specializes in Python and HTML.</p>
+Hi! I am an intermediate programmer who specializes in Python and HTML.</p>
 I've earned a Responsive Web Design certificate on FreeCodeCamp, and have been coding for around 3 years.
 I'm currently mastering Python and HTML, and learning C++, JavaScript, and Java.
 
