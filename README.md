@@ -1,3 +1,5 @@
+*Want to point out that this README is incredibly outdated and I'll be updating it soon*
+
 # dacoder101
 Hi! I am an intermediate programmer who specializes in Python and HTML.</p>
 I've earned a Responsive Web Design certificate on FreeCodeCamp, and have been coding for around 3 years.
@@ -5,6 +7,9 @@ I'm currently mastering Python and HTML, and learning C++, JavaScript, and Java.
 
 Want to reach me? bobbye23899@gmail.com
 # Badges ![Profile Views](https://komarev.com/ghpvc/?username=dacoder101&label=Views&color=green&style=for-the-badge)
+
+### I do not have much if any experience with some of these badges, and my preferences have sense changed! Will be updated in the future
+
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://www.w3schools.com/html/)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://www.w3schools.com/css/)
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://www.javascript.com/)
