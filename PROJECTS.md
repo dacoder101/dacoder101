@@ -9,7 +9,7 @@ The following is a list of projects I've created or am developing, including the
 One of the first full web projects I've created, with multiple pages, some easter eggs, and a semi-presentable navbar.
 Access via [dacoder101.github.io/rickin/](https://dacoder101.github.io/rickin/)
 
-Created by me with some help from @lumauser and inspiration from friends.
+Created by me with some help from [@lumauser](https://github.com/lumauser) and inspiration from friends.
 
 ## [savers: Screensavers to pair along with rickin.](https://github.com/dacoder101/savers)
 
