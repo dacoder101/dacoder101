@@ -25,3 +25,4 @@ Some of my future programming goals include,
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=dacoder101&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoder101&theme=merko&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dacoder101&theme=merko)
