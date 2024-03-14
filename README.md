@@ -18,7 +18,7 @@ Some of my future programming goals include,
 * Creating a functional chat application, similar to Discord
 * Finishing my 8-bit CPU on a breadboard, designing a GPU, and creating a basic OS
 * Completing the Lox interpreter from Crafting Interpreters
-* Perfect my Arch Linux rice
+* Perfecting my Arch Linux rice
 * Learning ethical hacking
 
 ## Stats
