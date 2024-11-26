@@ -4,7 +4,7 @@
 
 ## Experience / Projects
 
-I've been coding for a little under four years. I first started learning website creation with JavaScript, HTML, and some CSS and was able to develop some simple projects in my free time. Today, I've come to be experienced with some basic web development, a fair amount of Python (my preferred scripting language), and a little bit of Java and C++.
+I've been coding for a little under four years. I first started learning website creation with JavaScript, HTML, and some CSS and developed some simple projects in my free time. Today, I've become experienced with web development, a fair amount of Python (my preferred scripting language), and a little bit of Java and C++. My experience also extends to the backend, as I know NodeJS and SQL.
 
 Some of my more notable projects include **[rickin](https://github.com/dacoder101/rickin)** (one of my first complete HTML projects), **[math-game-bot](https://github.com/dacoder101/math-game-bot)** (a Discord bot with an interpreter, revolved around a math game), and some other half-created projects I am currently working on.
 
