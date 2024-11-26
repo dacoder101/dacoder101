@@ -1,8 +1,6 @@
-*Expect an update on this repo soon!*
-
 # *dacoder101: just another programmer*
 
-**Hello!** I'm surprised you found your way to my GitHub profile! I'm Bobby, a semi-experienced programmer and computer hobbyist who enjoys gaming, music, electronics, and coding. I use Windows 11 as my daily driver, especially for gaming, but I use Arch Linux for programming with Visual Studio Code, and I also have Kali Linux on my machine.
+**Hello!** I'm surprised you found your way to my GitHub profile! I'm Bobby, a semi-experienced programmer and computer hobbyist who enjoys gaming, music, electronics, and coding. I use Windows 11 as my daily driver, especially for gaming, but I also use Arch Linux for programming with Visual Studio Code and Kali Linux on my machine.
 
 ## Experience / Projects
 
