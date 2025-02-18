@@ -43,5 +43,4 @@ My major projects are developed using static web languages and Python. Some othe
 If you'd like to contact me to inquire about myself, a project, or anything else, please [email me](mailto:bobbye23899@gmail.com)! Other socials are linked with my GitHub account.
 
 ### Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bqbbo&show_icons=true&theme=goth /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bqbbo&show_icons=true&theme=merko" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqbbo&theme=merko&layout=compact" /> </p>
