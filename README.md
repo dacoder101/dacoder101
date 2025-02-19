@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm bobbo :D
 
-I'm a fourteen-year-old intermediate programmer who occasionally opens an IDE to experiment with something new. I have knowledge of various languages and CS concepts. Learn more about me by visiting [my website](https://bobboe.live).
+I'm a fourteen-year-old intermediate programmer who occasionally opens an IDE to experiment with some code. I have knowledge of various languages and CS concepts. Learn more about me by visiting [my website](https://bobboe.live).
 
 I'm looking forward to the next major project, whenever that will be...
 
