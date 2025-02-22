@@ -27,7 +27,7 @@ I have a lot of learning to do...
 
 Plenty of future goals and projects. I'd like to:
 
-* Work through the entirety of [Crafting Interpreters by Robert Nystrom](https://craftinginterpreters.com).
+* Work through the entirety of *[Crafting Interpreters](https://craftinginterpreters.com)* by Robert Nystrom.
 * Finish my Arch Linux rice
 * Complete my 8-bit breadboard CPU
 * Create a basic bootable application for my RPI
